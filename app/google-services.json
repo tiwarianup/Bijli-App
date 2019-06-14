@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678664006287",
+    "firebase_url": "https://bijliapp.firebaseio.com",
+    "project_id": "bijliapp",
+    "storage_bucket": "bijliapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678664006287:android:3534a06caf6b2842",
+        "android_client_info": {
+          "package_name": "paricheeta.anuptiwari.spieti.bijliapp.com.bijliapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678664006287-p8528bpa4fabmd2e225vkdu9dnbs0rei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "paricheeta.anuptiwari.spieti.bijliapp.com.bijliapp",
+            "certificate_hash": "3021ca5cd5a235dc0d04c7a7e675e506965fff11"
+          }
+        },
+        {
+          "client_id": "678664006287-le7m67os53b6hba9598tceddp2jvib7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFZQnUE5KorrA2vHfWw9IYVW9m24B7wc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678664006287-le7m67os53b6hba9598tceddp2jvib7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

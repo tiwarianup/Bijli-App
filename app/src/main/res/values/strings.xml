@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BijliApp</string>
+    <string name="bijliapp">BijliApp</string>
+    <string name="appTagLine">RealTime Power Supply Status</string>
+    <string name="report_outage">Report Electricity Outage</string>
+    <string name="report_revival">Report Electricity Revival</string>
+    <string name="google_maps_api">AIzaSyAyDzEZ0WRDt9JHRER2uM4qTx8_H6SUJfY</string>
+</resources>
